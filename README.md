@@ -1,2 +1,2 @@
-# examples
-This repository content just basic examples of code
+# Minimal APP
+This app, which is accompanied by a tutorial, is the 1st example app of our incremental sequence of six examples of Plain JS Front-End Web Apps, which are also discussed in the acompanying book Building Front-End Web Apps with Plain JavaScript
